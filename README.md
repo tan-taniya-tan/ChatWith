@@ -38,7 +38,7 @@ ExpressJS is used to handle a variety of different HTTP demands.
 ## Screencaps
 
 ### Login Page
-![image](https://github.com/Jyothirmai-123/Realtime-Chat-Application/assets/113755812/2f11e9fe-52d5-47c7-9d53-93f4fc6db386)
+![Screenshot (62)](https://github.com/tan-taniya-tan/ChatWith/assets/147307773/473d8498-52f2-4347-ae78-3b293672f560)
 
 ### Chats page
 #### Searching of users
