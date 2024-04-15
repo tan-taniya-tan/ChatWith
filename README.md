@@ -42,16 +42,16 @@ ExpressJS is used to handle a variety of different HTTP demands.
 
 ### Chats page
 #### Searching of users
-![image](https://github.com/Jyothirmai-123/Realtime-Chat-Application/assets/113755812/ffe9574a-0a6a-40ce-a4bc-facfdeec9b89)
+![Screenshot (72)](https://github.com/tan-taniya-tan/ChatWith/assets/147307773/8a0a4fdc-fc41-4b97-bbca-978945a68c72)
 
 #### After adding a new user
-![image](https://github.com/Jyothirmai-123/Realtime-Chat-Application/assets/113755812/2d5499cc-91f1-4b43-b0c0-cc2929b990dd)
+![Screenshot (71)](https://github.com/tan-taniya-tan/ChatWith/assets/147307773/fba7211e-b536-47c7-a054-1a21b91e2799)
 
 #### 1 to 1 private chat
-![image](https://github.com/Jyothirmai-123/Realtime-Chat-Application/assets/113755812/52b3570b-e971-4556-81b7-b5be0af41f00)
+![Screenshot (73)](https://github.com/tan-taniya-tan/ChatWith/assets/147307773/6fb7560d-dbbc-41f0-806e-05a6865dc9a1)
 
 #### Group chat
-![image](https://github.com/Jyothirmai-123/Realtime-Chat-Application/assets/113755812/cc14e6cf-a8d4-4a39-9a26-d85eefa191e3)
+![Screenshot (74)](https://github.com/tan-taniya-tan/ChatWith/assets/147307773/29b2f19f-5a0b-42ba-a17a-392805fae772)
 
 #### 2 users chatting simultaneously
 ![image](https://github.com/Jyothirmai-123/Realtime-Chat-Application/assets/113755812/35930d96-5839-4dbe-b723-ddd45110cbbf)
